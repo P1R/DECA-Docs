@@ -1,6 +1,6 @@
 {
  "build": {
-   "image": "peaceiris/mdbook",
+   "image": "peaceiris/mdbook:v0.4.34",
    "command": "mdbook build",
    "publicDir": "docs",
    "baseDir": "book",
